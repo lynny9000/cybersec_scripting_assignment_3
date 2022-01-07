@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 #Student: Brendan Lynn
-#Student number: R00195611
 
 #########################################################################################################
 #The purpose of this script is complete six tasks from the assignment "Malware Detection & Network Monitoring"
